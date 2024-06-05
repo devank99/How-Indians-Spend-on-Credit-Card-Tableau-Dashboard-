@@ -18,7 +18,7 @@ How indians spent on credit card Data Analysis Using Excel and Tableau
 
     •	Developed a Tableau dashboard to perform analysis, producing quantitative visualizations 
             in Tableau to draw valuable insights based on how credit card users spend based on 
-            different factorslike Expense type,gender,etc.
+            different factors like Expense type,gender,etc.
             
 
 ## 📈TECHNOLOGIES USED:
@@ -75,7 +75,7 @@ The dashboard shows:
  
 ## DASHBOARD:
 
-![Snapchat Dashboard Yellow](https://github.com/devank99/How-Indians-Spend-on-Credit-Card-Tableau-Dashboard-/blob/70ff81bf94a40abc2a56cd2cd4d9d4152c194fd9/Tableau%20dashboard.png)
+![Dashboard ](https://github.com/devank99/How-Indians-Spend-on-Credit-Card-Tableau-Dashboard-/blob/70ff81bf94a40abc2a56cd2cd4d9d4152c194fd9/Tableau%20dashboard.png)
 
 
 ## FINDING:
