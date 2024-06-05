@@ -1,4 +1,4 @@
-# Credit Card Spendings Data Analysis Using Excel and Tableau💳
+# Credit Card Spending Data Analysis Using Excel and Tableau💳
 
 ## 🧷LINKS:
 
