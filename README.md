@@ -1,12 +1,11 @@
-# Credit Card Spendings Data Analysis Using Excel and Tableau
+# Credit Card Spendings Data Analysis Using Excel and Tableau💳
 
-## LINKS:
+## 🧷LINKS:
 
-Lets Connect
 
 [Go to Dashboard](https://public.tableau.com/authoring/HowIndiansspendoncreditcard/Dashboard1#1)
 
-## PROJECT NAME:
+## 📍PROJECT NAME:
 
 How indians spent on credit card Data Analysis Using Excel and Tableau
 
@@ -27,7 +26,7 @@ How indians spent on credit card Data Analysis Using Excel and Tableau
 
     •	Tableau
 
-## STEPS:
+## 📍STEPS:
 
     • Data subset collected from online.
     • Loading Libraries
@@ -35,7 +34,7 @@ How indians spent on credit card Data Analysis Using Excel and Tableau
     • Data Visualization
     
  
-## DATA VISUALIZATION:
+## 📈DATA VISUALIZATION:
 
     1) Vertical Bar Graph for diffrent types of cards used by credit cards users.
 
@@ -49,12 +48,12 @@ How indians spent on credit card Data Analysis Using Excel and Tableau
 
     7) Treemaps to visualize top 10 cities with the most credit card transactions.
 
-## METHODOLOGY:
+## 📍METHODOLOGY:
 
 The goal of this project is to practice creating and interpreting different types of visualizations using real world data. I have created three multiple bar Graphs 
 which shows different relations between different factors. I have created one Donut graph which has its own Graphs when you Hover over it.I have created one treemap.One Vertical Bar Graph and One Horizontal Bar Graph for showing visualization.
 
-## DASHBOARD CONTAINS:
+## 📍DASHBOARD CONTAINS:
 
     1) Total 2 Bar Graphs Used in the process which are present in Dashboard.
 
@@ -64,7 +63,7 @@ which shows different relations between different factors. I have created one Do
 
     4) If you Hover over the Donut Graphs in Dashborad it shows its own graph which explain it characteristics. It is good way to show More in Less.
 
-## SNAPCHAT ADS ANALYSIS DASHBOARD:
+## 📍ANALYSIS DASHBOARD:
 
 The dashboard shows:
    2) The Dashboard provides interactive interface of list of factors on which Credit Cards users spent most on.
@@ -78,7 +77,7 @@ The dashboard shows:
 ![Dashboard ](https://github.com/devank99/How-Indians-Spend-on-Credit-Card-Tableau-Dashboard-/blob/70ff81bf94a40abc2a56cd2cd4d9d4152c194fd9/Tableau%20dashboard.png)
 
 
-## FINDING:
+## 📍FINDING:
 
 1) Silver Credit Card Dominance: The Silver Credit Card is the most widely used credit card, accounting for 26.2% of all transactions, followed closely by the Signate Credit Card with 
    24.9%.
@@ -86,7 +85,7 @@ The dashboard shows:
 3) Top Expenses: Utility bills and entertainment expenses are the two most common expenses paid using credit cards.
 4) Metro City Contribution: Cities like Mumbai, Ahmedabad, and Bengaluru contribute significantly to credit card transactions in the country.
 
-## Suggestions to increase credit card usage
+## 📍Suggestions to increase credit card usage
 
 1. Leverage Silver Credit Card Dominance
 Targeted Promotions: Create special promotions and rewards programs for Silver Credit Card users to reinforce their loyalty. This could include cashback offers, bonus points, or exclusive discounts with popular merchants.
