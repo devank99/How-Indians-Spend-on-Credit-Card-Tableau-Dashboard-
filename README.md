@@ -66,10 +66,15 @@ which shows different relations between different factors. I have created one Do
 ## 📍ANALYSIS DASHBOARD:
 
 The dashboard shows:
-   2) The Dashboard provides interactive interface of list of factors on which Credit Cards users spent most on.
-   3) The Dashboard shows most used cards based on percentage of spendings.
-   4) The Dashboard can compare spending habits of both the genders.
-   5) The Dashboard shows the money spent on different type of expenses.
+
+   1) The Dashboard provides interactive interface of list of factors on which Credit Cards users spent most on.
+   
+   2) The Dashboard shows most used cards based on percentage of spendings.
+    
+   3) The Dashboard can compare spending habits of both the genders.
+    
+   4) The Dashboard shows the money spent on different type of expenses.
+    
    5) The Dashboard shows the top 10 cities with the most credit card transactions based on averge transactions.
  
 ## DASHBOARD:
