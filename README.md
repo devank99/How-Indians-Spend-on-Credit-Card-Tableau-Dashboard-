@@ -75,7 +75,7 @@ The dashboard shows:
  
 ## DASHBOARD:
 
-![Snapchat Dashboard Yellow](https://user-images.githubusercontent.com/124501309/224612942-a136431d-4ea7-4ac2-9080-74f37aafe361.png)
+![Snapchat Dashboard Yellow](https://github.com/devank99/How-Indians-Spend-on-Credit-Card-Tableau-Dashboard-/blob/70ff81bf94a40abc2a56cd2cd4d9d4152c194fd9/Tableau%20dashboard.png)
 
 
 ## FINDING:
@@ -99,9 +99,6 @@ Entertainment Deals: Collaborate with entertainment providers (cinemas, streamin
 4. Enhance Metro City Contributions
 City-Specific Campaigns: Launch city-specific marketing campaigns in Mumbai, Ahmedabad, and Bengaluru, highlighting local merchants and offers. Use geo-targeted advertising to reach urban consumers effectively.
 
-![IMG_20230214_190429](https://user-images.githubusercontent.com/124501309/218799963-e3355a53-36a7-4964-a32c-7fbcea9e3efa.jpg)
-
-![Snapchat Dashboard](https://user-images.githubusercontent.com/124501309/218800979-ceb89d21-17c7-41f7-894b-d3e3bb67adf6.png)
 
 I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
 
