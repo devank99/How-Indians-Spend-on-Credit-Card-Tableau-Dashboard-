@@ -21,7 +21,7 @@ How indians spent on credit card Data Analysis Using Excel and Tableau
             different factorslike Expense type,gender,etc.
             
 
-## TECHNOLOGIES USED:
+## 📈TECHNOLOGIES USED:
 
     •	Advance Excel
 
