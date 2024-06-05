@@ -1,36 +1,29 @@
-# Snapchat_Ads_Data_Analysis_using_SQL_and_Tableau
+# Credit Card Spendings Data Analysis Using Excel and Tableau
 
 ## LINKS:
 
 Lets Connect
 
-[Go to Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/NetflixProject-TableauDashboard/Netflix?publish=yes)
+[Go to Dashboard]([https://public.tableau.com/app/profile/gulshan.gedam/viz/NetflixProject-TableauDashboard/Netflix?publish=yes](https://public.tableau.com/authoring/HowIndiansspendoncreditcard/Dashboard1#1))
 
 ## PROJECT NAME:
 
-Snapchat Ads Targeting Data Analysis Using SQl and Tableau
+How indians spent on credit card Data Analysis Using Excel and Tableau
 
 ## ABOUT PROJECT:
 
-    •	Performed how Snapchat, a social media app Targets its audience for ads, full data analysis process.
+    •	Performed full data analysis on how credit card users in india spend their money,using full data analysis process.
 
-    •	Performed Data cleaning in MS Excel and used SQl for better Data Analysis Process.
+    •	Performed Data cleaning in MS Excel for better Data Analysis Process.
 
     •	Developed a Tableau dashboard to perform analysis, producing quantitative visualizations 
-            in Tableau to draw valuable insights based on how Snapchat targets its audience based on 
-            different factors and how big events has big impacts on social media uses.
+            in Tableau to draw valuable insights based on how credit card users spend based on 
+            different factorslike Expense type,gender,etc.
             
-## ABOUT SNAPCHAT: 
-
-    •  Snapchat is an American multimedia instant messaging app and service developed by Snap Inc., originally Snapchat Inc. 
-       One of the principal features of Snapchat is that pictures and messages are usually only available for a short time 
-       before they become inaccessible to their recipients.
 
 ## TECHNOLOGIES USED:
 
     •	Advance Excel
-
-    •	MySQL | SQL Server
 
     •	Tableau
 
@@ -44,65 +37,67 @@ Snapchat Ads Targeting Data Analysis Using SQl and Tableau
  
 ## DATA VISUALIZATION:
 
-    1) Vertical Bar Graph of Sum of Total number of Ads for each Country
+    1) Vertical Bar Graph for diffrent types of cards used by credit cards users.
 
     2) Boxes of Total Countries, Total Impressions and Total Amount Spent on Ads
 
-    3) Donut Graph of Ads Targeting depending on Different factor contains Age, segments, language, Interests, gender and other factors
+    3) Donut Graph for percentage of total amount spend based on gender.
 
-    4) Each Donut Graph contains its Own Graph when you hover over it.
+    4) Graph contains its Own Graph when you hover over it.
 
-    5) line Graph of when they are targeting you
+    6) Horizontal Bar Graph for Total Transaction Amount per Category.
 
-    6) Bar Graph of Total Impression vs Money spend by companies on Ads.
-
-    7) Slop Graph of money spend on each country for advertisement from 2018 to 2019.
+    7) Treemaps to visualize top 10 cities with the most credit card transactions.
 
 ## METHODOLOGY:
 
 The goal of this project is to practice creating and interpreting different types of visualizations using real world data. I have created three multiple bar Graphs 
-which shows different relations between different factors. I have created five Donut graph which has its own Graphs when you Hover over it. One line Graph and One slop Graph for showing visualization.
+which shows different relations between different factors. I have created one Donut graph which has its own Graphs when you Hover over it.I have created one treemap.One Vertical Bar Graph and One Horizontal Bar Graph for showing visualization.
 
 ## DASHBOARD CONTAINS:
 
-    1) Total 3 Bar Graphs Used in the process which are present in Dashboard.
+    1) Total 2 Bar Graphs Used in the process which are present in Dashboard.
 
-    2) Total 5 Donut Graphs Used in the process which are present in Dashboard. Each donut graph has its own graph which has its own importance in analysis.
+    2) 1 Donut Graphs Used in the process which are present in Dashboard.donut graph has its own graph which has its own importance in analysis.
 
-    3) Here 1 line Graphs and 1 Slop Graph Used in the process which are present in Dashboard.
+    3) Here treemap graph used in the process which are present in Dashboard.
 
     4) If you Hover over the Donut Graphs in Dashborad it shows its own graph which explain it characteristics. It is good way to show More in Less.
 
 ## SNAPCHAT ADS ANALYSIS DASHBOARD:
 
 The dashboard shows:
-
-   1) The User can see which country has most number of ads and which country has least.
-   2) The Dashboard will provide interactive interface of list of factors on which Snapchat Ads most and least depend upon.
-   3) The Dashboard will show how different events shape the Ads targeting based on user.
-   4) The Dashboard can compair two counties based on how much money spent on them by different top 5 companies.
-   5) The Dashboard will show the money spent on different countries from 2018 to 2019.
+   2) The Dashboard provides interactive interface of list of factors on which Credit Cards users spent most on.
+   3) The Dashboard shows most used cards based on percentage of spendings.
+   4) The Dashboard can compare spending habits of both the genders.
+   5) The Dashboard shows the money spent on different type of expenses.
+   5) The Dashboard shows the top 10 cities with the most credit card transactions based on averge transactions.
  
 ## DASHBOARD:
 
 ![Snapchat Dashboard Yellow](https://user-images.githubusercontent.com/124501309/224612942-a136431d-4ea7-4ac2-9080-74f37aafe361.png)
 
-### The Following Image shows different Donut Graphs Individual Graphs.
-
-![Picsart_23-02-14_21-58-04-313](https://user-images.githubusercontent.com/124501309/218798135-f980689b-b073-4032-96e3-690e93396675.jpg)
-
 
 ## FINDING:
 
-1) For the 5 countries in which snapchat ads are more popular, Each country experiences an INCREASE 
-   in the number of active ads before a Major Political Elections.
-2) Of the 29 countries in this dataset, only Denmark and Iraq have shown a decrease in spending on snapchat 
-   ads whilst all the other countries have shown an increase in spending.
-3) The younger generation must be particularly careful on the influence we allow political ads to have on our decisions. 
-   As an 18 year old, 75% of these ads are targeting you and some ads are targeting individuals as young as 14 years old.
-4) We should also be more mindful of the influence advertisements may have on us as we reach election dates to ensure we 
-   are not influenced by biased ads, the same way we try and avoid being influenced by biased news sources.
+1) Silver Credit Card Dominance: The Silver Credit Card is the most widely used credit card, accounting for 26.2% of all transactions, followed closely by the Signate Credit Card with 
+   24.9%.
+2) Gender Spending Gap: Women tend to spend more using credit cards than men, with a significant difference of 9.3%.
+3) Top Expenses: Utility bills and entertainment expenses are the two most common expenses paid using credit cards.
+4) Metro City Contribution: Cities like Mumbai, Ahmedabad, and Bengaluru contribute significantly to credit card transactions in the country.
 
+## Suggestions to increase credit card usage
+
+1. Leverage Silver Credit Card Dominance
+Targeted Promotions: Create special promotions and rewards programs for Silver Credit Card users to reinforce their loyalty. This could include cashback offers, bonus points, or exclusive discounts with popular merchants.
+Referral Programs: Encourage existing Silver Credit Card holders to refer friends and family by offering referral bonuses or additional points.
+2. Address Gender Spending Gap
+Tailored Offers for Women: Develop marketing campaigns and offers tailored to women, who are spending more on average. Consider partnerships with brands that are popular among women, such as fashion, beauty, and wellness.
+3. Focus on Top Expenses
+Utility Bill Payment Incentives: Provide incentives for using credit cards to pay utility bills, such as discounts, cashback, or bonus points. Partner with utility companies to streamline the payment process.
+Entertainment Deals: Collaborate with entertainment providers (cinemas, streaming services, event organizers) to offer exclusive deals and discounts for credit card users.
+4. Enhance Metro City Contributions
+City-Specific Campaigns: Launch city-specific marketing campaigns in Mumbai, Ahmedabad, and Bengaluru, highlighting local merchants and offers. Use geo-targeted advertising to reach urban consumers effectively.
 
 ![IMG_20230214_190429](https://user-images.githubusercontent.com/124501309/218799963-e3355a53-36a7-4964-a32c-7fbcea9e3efa.jpg)
 
