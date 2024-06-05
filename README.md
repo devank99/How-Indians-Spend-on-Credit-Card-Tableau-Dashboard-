@@ -4,7 +4,7 @@
 
 Lets Connect
 
-[Go to Dashboard]((https://public.tableau.com/authoring/HowIndiansspendoncreditcard/Dashboard1#1))
+[Go to Dashboard](https://public.tableau.com/authoring/HowIndiansspendoncreditcard/Dashboard1#1)
 
 ## PROJECT NAME:
 
