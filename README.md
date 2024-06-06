@@ -79,7 +79,7 @@ The dashboard shows:
  
 ## DASHBOARD:
 
-![Dashboard ](https://github.com/devank99/How-Indians-Spend-on-Credit-Card-Tableau-Dashboard-/blob/70ff81bf94a40abc2a56cd2cd4d9d4152c194fd9/Tableau%20dashboard.png)
+![Dashboard ](https://github.com/devank99/How-Indians-Spend-on-Credit-Card-Tableau-Dashboard-/blob/main/Tableau%20Dashboard.png)
 
 
 ## 📍FINDING:
