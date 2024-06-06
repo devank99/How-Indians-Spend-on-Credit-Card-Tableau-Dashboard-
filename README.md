@@ -104,6 +104,5 @@ Entertainment Deals: Collaborate with entertainment providers (cinemas, streamin
 City-Specific Campaigns: Launch city-specific marketing campaigns in Mumbai, Ahmedabad, and Bengaluru, highlighting local merchants and offers. Use geo-targeted advertising to reach urban consumers effectively.
 
 
-I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
 
 
